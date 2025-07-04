@@ -1,0 +1,8 @@
+nginx
+Salin
+Edit
+torch
+numpy
+pandas
+streamlit
+nltk
